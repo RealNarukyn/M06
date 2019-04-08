@@ -1,0 +1,47 @@
+
+	EJEMPLO 1
+		std::ofstream archivo;
+		archivo.open("datos.csv");
+		archivo << "a;b;c;\n";
+		archivo << "d;e;f;\n";
+		archivo << "1;2;3.456;\n";
+		archivo.close();
+		return 0;
+
+	 EJEMPLO 2
+		std::ifstream ip("../ProjectM06/personas.csv");
+	
+		if (!ip.is_open())
+		{
+		std::cout << "ERROR: Error al abrir el archivo" << '\n';
+			return 1;
+		}
+	
+		// En los archivos de texto todo es una string, si queremos que 
+		// sea int o float tenemos que interpretar los datos.
+		std::string nombre;
+		std::string apellido;
+		std::string edad;
+		std::string peso;
+	
+		std::cout << '\n';
+	
+		while (ip.good())
+		{
+			std::getline(ip, nombre, ';');
+			std::getline(ip, apellido, ';');
+	
+			std::getline(ip, edad, ';');
+			int edadINT = stoi(edad);
+	
+			std::getline(ip, peso, '\n');
+			float pesoFLOAT = stof(peso);
+	
+		std::cout << "Nombre: " << nombre << " " << apellido << '\n';
+		std::cout << "Edad: " << edadINT << '\n';
+		std::cout << "Peso: " << pesoFLOAT << '\n';
+		std::cout << "=======================" << '\n';
+	}
+	
+		ip.close();
+	
