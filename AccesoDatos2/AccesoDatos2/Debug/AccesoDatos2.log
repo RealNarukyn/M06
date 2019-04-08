@@ -1,26 +1,24 @@
-﻿  AccesoDatos2.cpp
-c:\users\alejandro.munoz\desktop\accesodatos2\accesodatos2\accesodatos2.cpp(208): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\alejandro.munoz\desktop\accesodatos2\accesodatos2\accesodatos2.cpp(209): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\alejandro.munoz\desktop\accesodatos2\accesodatos2\accesodatos2.cpp(234): warning C4018: '<': signed/unsigned mismatch
-raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(models.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(models.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(context.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(init.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(input.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(input.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(monitor.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(vulkan.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(vulkan.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(window.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(win32_init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_init.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_joystick.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_monitor.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(win32_time.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_time.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_thread.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(win32_window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_window.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(wgl_context.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(egl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(egl_context.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-raylib.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(osmesa_context.obj)' or at 'C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
-  AccesoDatos2.vcxproj -> C:\Users\alejandro.munoz\Desktop\AccesoDatos2\Debug\AccesoDatos2.exe
+﻿  pch.cpp
+  AccesoDatos2.cpp
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(models.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(models.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(context.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(init.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(input.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(input.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(monitor.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(vulkan.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(vulkan.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(window.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_init.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_joystick.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_monitor.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_time.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_time.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_thread.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_window.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(wgl_context.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(egl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(egl_context.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(osmesa_context.obj)' or at 'D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\glfw_objlib.pdb'; linking object as if no debug info
+  AccesoDatos2.vcxproj -> D:\amProject\AccesoDatos\M06\AccesoDatos2\Debug\AccesoDatos2.exe
